@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola! 👋
+# 👨‍💻 Diego S- Portafolio Técnico Soporte IT
 
-<!--
-**dieg0s-it/dieg0s-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+🎯 **Objetivo:** Documentar conocimientos técnicos, soluciones de problemas y automatizaciones en el área de soporte IT y administración de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 📋 Sobre Mí
+Soy un técnico en soporte IT enfocado en resolver problemas de infraestructura, redes y sistemas operativos. Este repositorio sirve como:
+- 📚 **Aprendizaje continuo:** Documentación de casos reales y soluciones aplicadas
+- 🛠️ **Portafolio práctico:** Scripts, automatizaciones y configuraciones demostrables
+- 🤝 **Recursos compartidos:** Guías útiles para otros profesionales del área
+
+- ## 📬 Contacto
+
+| Plataforma | Enlace |
+|------------|--------|
+| 🔗 LinkedIn | [Linkedin](https://linkedin.com/in/diego-s-it/) |
+| ✉️ Email | diegoscaravaglione@pm.me |
