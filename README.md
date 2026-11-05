@@ -1,6 +1,6 @@
-[🇬🇧 English](#english) | [🇪🇸 Español](#español)
+[English](#english) | [Español](#español)
 
-# 🇬🇧 English
+# English
 
 # Hi! 👋 I'm Diego
 
@@ -63,7 +63,7 @@ A hands-on networking project covering:
 
 ---
 
-# 🇪🇸 Español
+# Español
 
 # ¡Hola! 👋 Soy Diego
 
