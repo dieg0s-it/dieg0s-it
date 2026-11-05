@@ -1,23 +1,62 @@
-## Hola! 👋
-# 👨‍💻 Diego S- Portafolio Técnico Soporte IT
+# ¡Hola! 👋 Soy Diego
 
-<div align="center">
+## 👨‍💻 IT Support | Help Desk | Network Troubleshooting
 
-🎯 **Objetivo:** Documentar conocimientos técnicos, soluciones de problemas y automatizaciones en el área de soporte IT y administración de sistemas.
+Profesional con experiencia en operaciones administrativas, atención a usuarios, soporte técnico interno y resolución de incidencias. Actualmente estoy orientando mi desarrollo profesional hacia el área de **IT Support y administración de sistemas**.
 
-</div>
+Este perfil reúne mis prácticas, laboratorios y documentación técnica como parte de mi aprendizaje continuo.
 
 ---
 
-## 📋 Sobre Mí
-Soy un técnico en soporte IT enfocado en resolver problemas de infraestructura, redes y sistemas operativos. Este repositorio sirve como:
-- 📚 **Aprendizaje continuo:** Documentación de casos reales y soluciones aplicadas
-- 🛠️ **Portafolio práctico:** Scripts, automatizaciones y configuraciones demostrables
-- 🤝 **Recursos compartidos:** Guías útiles para otros profesionales del área
+## 📋 Sobre mí
 
-- ## 📬 Contacto
+Cuento con más de 20 años de experiencia profesional en operaciones administrativas, coordinación de equipos, atención al cliente y asistencia técnica.
+
+Durante mi trayectoria también he realizado tareas de soporte interno, resolución de incidencias y gestión de plataformas digitales.
+
+Actualmente estoy reforzando mis conocimientos en redes, sistemas operativos y soporte IT mediante formación y prácticas técnicas.
+
+**Áreas de interés:**
+- 🖥️ IT Support y Help Desk (L1).
+- 🌐 Redes y troubleshooting.
+- 🔧 Diagnóstico y resolución de incidencias.
+- 🐧 Linux y administración de sistemas.
+- 📝 Documentación técnica y gestión de incidencias.
+
+## 🛠️ Herramientas y tecnologías
+
+- **Sistemas operativos:** Ubuntu Linux, Windows.
+- **Redes:** DNS, HTTP/HTTPS, TCP/IP.
+- **Diagnóstico:** `ping`, `traceroute/tracepath`, `nslookup`, `dig`, `curl`.
+- **Documentación:** Markdown, Git y GitHub.
+
+## 📂 Proyectos prácticos
+
+### 🌐 Network Troubleshooting Lab
+
+Laboratorio práctico de diagnóstico de redes que incluye:
+
+- DNS Troubleshooting.
+- HTTP/HTTPS Troubleshooting.
+- Network Diagnostics.
+- Documentación de incidencias técnicas.
+
+👉 [Ver proyecto en GitHub](https://github.com/dieg0s-it/network-troubleshooting-lab)
+
+## 🎓 Formación técnica
+
+- Google IT Support Professional Certificate.
+- Formación Cisco.
+- CompTIA Network+ (N10-009) — en preparación.
+- Formación en Cloud Computing.
+
+## 📬 Contacto
 
 | Plataforma | Enlace |
-|------------|--------|
-| 🔗 LinkedIn | [Linkedin](https://www.linkedin.com/in/dsm-it/) |
-| ✉️ Email | diegoscaravaglione@pm.me |
+|---|---|
+| 🔗 LinkedIn | [linkedin.com/in/dsm-it](https://www.linkedin.com/in/dsm-it/) |
+| ✉️ Email | [diegoscaravaglione@pm.me](mailto:diegoscaravaglione@pm.me) |
+
+---
+
+*Aprendizaje continuo, práctica y resolución de problemas.*
